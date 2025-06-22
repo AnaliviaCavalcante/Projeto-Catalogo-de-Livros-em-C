@@ -1,4 +1,4 @@
-# Sistema de Gerenciamento de Catálogo de Livros em C
+#Catálogo de Livros 
 
 Este é um projeto desenvolvido para a disciplina de **Linguagem de Programação** da **Fatec Arthur de Azevedo - Mogi Mirim**, sob a orientação do **Prof. Me. Marcos Roberto de Moraes**. O objetivo principal é aplicar conceitos de **estruturas de dados**, **manipulação de arquivos** e práticas de **desenvolvimento de software em C**.
 
