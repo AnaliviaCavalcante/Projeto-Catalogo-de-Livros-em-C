@@ -69,9 +69,3 @@ Para interagir com o sistema, siga estes passos simples:
 
 ##  Autores
 
-* [Nome do Aluno 1]
-* [Nome do Aluno 2]
-* [Nome do Aluno 3]
-* [Nome do Aluno 4]
-* [Nome do Aluno 5]
-
