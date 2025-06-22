@@ -68,5 +68,6 @@ Para interagir com o sistema, siga estes passos simples:
 * `catalogo.csv`: Arquivo gerado e utilizado pelo programa para armazenar e carregar os dados do catálogo de livros. Ele será criado automaticamente na primeira execução, se não existir.
 
 ## Autores
-href="https://github.com/AnaliviaCavalcante" target="_blank">Analívia Cavalcante</a>
+<div class="contributor">
+        <a href="https://github.com/AnaliviaCavalcante" target="_blank">Analívia Cavalcante</a>
     </div>
