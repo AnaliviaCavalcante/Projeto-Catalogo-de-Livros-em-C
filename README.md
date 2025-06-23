@@ -74,3 +74,8 @@ Para interagir com o sistema, siga estes passos simples:
 <div class="contributor">
         <a href="https://github.com/amandagoesc" target="_blank">Amanda Cavalcante</a>
     </div>
+<div class="contributor">
+        <a href="https://github.com/Manuumaldonatoo" target="_blank">Emanuele Maldonato</a>
+    </div>
+
+
