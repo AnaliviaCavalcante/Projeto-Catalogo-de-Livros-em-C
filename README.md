@@ -77,5 +77,9 @@ Para interagir com o sistema, siga estes passos simples:
 <div class="contributor">
         <a href="https://github.com/Manuumaldonatoo" target="_blank">Emanuele Maldonato</a>
     </div>
+<div class="contributor">
+        <a href="https://github.com/alexgmoraesz" target="_blank">Alexsandro Moraes </a>
+    </div>
+
 
 
