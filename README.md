@@ -69,5 +69,8 @@ Para interagir com o sistema, siga estes passos simples:
 
 ## Autores
 <div class="contributor">
-        <a href="https://github.com/AnaliviaCavalcante" target="_blank">Analívia Cavalcante</a>
+        <a href="https://github.com/AnaliviaCavalcante" target="_blank">Ana lívia Cavalcante</a>
+    </div>
+<div class="contributor">
+        <a href="https://github.com/amandagoesc" target="_blank">Amanda Cavalcante</a>
     </div>
